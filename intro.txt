@@ -1,2 +1,3 @@
 Hi,
-My name is Amit Kumar Behera
+My name is Amit Kumar Behera.
+and I'm currently working as System Engineer in SBC.
